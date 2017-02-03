@@ -1,0 +1,67 @@
+.navbar-be{
+    background-color: #459ad6;
+    display: block;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    font-size: 35px;
+}
+
+.nav-brand-be{
+    float: left;
+    margin-left: 1%;
+}
+
+.nav-brand-be{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-brand-be{
+    background-color:#459ad6;
+    list-style-type: none;
+    float: left;
+}
+
+.navbar-nav-be{
+    list-style: none;
+    margin-right: 5%;
+}
+
+.nav-link-be{
+    color: white;
+    float: right;
+    font-size: 15px;
+    margin-top: 1%;
+    margin-right: 2%;
+}
+
+li a:hover, a:active {
+color: floralwhite;
+text-decoration: none;
+}
+
+.btn, .btn-primary{
+    background-color: #459ad6;
+    color: white;
+    border-color: #459ad6;
+    float: right;
+    margin-top: 0,7%;
+    margin-right: 2%;
+}
+
+.modal-content{
+    font-size: 15px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.nav-link-logo {
+    float: left;
+    color: white;
+    background-color: #459ad6;
+    font-size: 30px;
+    border: none;
+}

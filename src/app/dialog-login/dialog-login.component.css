@@ -1,0 +1,12 @@
+.btn, .btn-primary{
+    background-color: #459ad6;
+    color: white;
+    border-color: #459ad6;
+    float: right;
+    margin-top: 0,7%;
+    margin-right: 2%;
+}
+
+.modal-content{
+    font-size: 15px;
+}
